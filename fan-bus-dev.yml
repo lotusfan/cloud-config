@@ -1,5 +1,12 @@
+version: 344
+
+
 server:
   port: 8002
 
-
-version: 344
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    enabled-by-default: true
