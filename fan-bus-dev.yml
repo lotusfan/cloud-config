@@ -3,4 +3,7 @@ spring:
     name: cloud-client
 
 server:
-  port: 8801
+  port: 8002
+
+
+version: 8.8.8
