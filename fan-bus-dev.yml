@@ -2,4 +2,4 @@ server:
   port: 8002
 
 
-version: 9.9.9
+version: 10
