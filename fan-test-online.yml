@@ -1,1 +1,7 @@
-version: 83.4.5
+spring:
+  application:
+    name: cloud-client
+
+server:
+  port: 8801
+
