@@ -1,9 +1,5 @@
 version: 333
 
-
-server:
-  port: 8002
-
 management:
   endpoints:
     web:
